@@ -43,4 +43,4 @@ This project showcases a series of business intelligence reports created using *
 ## Author
 **Malotse Mathipa**
 
-Aspiring Data Analyst | Data Scientist | Business Intelligence Enthusiast
+Data Analyst | Data Scientist | Business Intelligence Enthusiast
